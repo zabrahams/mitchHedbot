@@ -1,0 +1,11 @@
+{
+  "name": "mitchhedbot",
+  "version": "1.0.0",
+  "description": "a discord bot that tells Mitch Hedberg jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zee Abrahams (zee.j.abrahams@gmail.com)",
+  "license": "ISC"
+}
